@@ -1,0 +1,28 @@
+{
+  "name": "shell-game",
+  "version": "1.0.0",
+  "description": "Classic shell game on NodeJS",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DareFox/Shell-Game.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "game"
+  ],
+  "author": "DareFox, JustCryptProject",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DareFox/Shell-Game/issues"
+  },
+  "homepage": "https://github.com/DareFox/Shell-Game#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "input": "^1.0.1"
+  }
+}
